@@ -1,0 +1,5 @@
+{
+  "name": "PatrolAI",
+  "description": "An AI-powered content moderation assistant for creators to detect toxicity, bias, and guideline violations before posting.",
+  "requestFramePermissions": []
+}
